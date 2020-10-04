@@ -1,26 +1,3 @@
 apiVersion: v1
-entries:
-  ibm-b2bi-prod:
-  - apiVersion: v1
-    appVersion: 6.0.3
-    created: "2020-08-25T10:29:32.122339506-04:00"
-    dependencies:
-    - alias: sch
-      name: ibm-sch
-      repository: '@sch'
-      version: 1.2.16
-    description: A Helm chart to deploy B2B Integrator on a container platform
-    digest: a6a4c510325d756f27f7afcaa2a5f5e046f24b3b48b6f3a02b871aa00201ff20
-    keywords:
-    - Commercial
-    - amd64
-    - DevOps
-    - Automation
-    - ICP
-    - ICPRHOCP
-    kubeVersion: '>=1.11'
-    name: ibm-b2bi-prod
-    urls:
-    - https://aroute.github.io/b2bi-helm/ibm-b2bi-prod-2.0.0.tgz
-    version: 2.0.0
-generated: "2020-08-25T10:29:32.084987313-04:00"
+entries: {}
+generated: "2020-10-04T11:31:09.336792366-04:00"
